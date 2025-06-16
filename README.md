@@ -8,6 +8,7 @@
 
 <h2 align="center">👩‍💻 김지희 | Python & Data Analytics Learner</h2>
 <br>
+<br>
 <p align="center">
   LG U+ Why Not SW Camp 7기<br/>
   데이터 분석가로 성장하는 과정을 기록 중입니다 🌱
