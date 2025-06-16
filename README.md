@@ -12,7 +12,7 @@
   LG U+ Why Not SW Camp 7기<br/>
   데이터 분석가로 성장하는 과정을 기록 중입니다 🌱
 </p>
-<br>
+
 
 <!-- 뱃지 -->
 <p align="center">
