@@ -20,7 +20,7 @@
   
   <!-- 이메일 -->
   <a href="mailto:kimjihui45@email.com">
-    <img src="https://img.shields.io/badge/CONTACT%20ME-b8cbfd?style=for-the-badge&logo=gmail&logoColor=ffe7ea">
+    <img src="https://img.shields.io/badge/CONTACT%20ME-b8cbfd?style=for-the-badge&logo=gmail&logoColor=ffb6c1">
   </a>
 </p>
 
