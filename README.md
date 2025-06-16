@@ -1,7 +1,8 @@
 <!-- 배너 이미지 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20JiHee!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi%20I'm%20JiHee" />
 </p>
+
 
 <!-- 소개 -->
 <h2 align="center">👩‍💻 김지희 | Python & Data Analytics Learner</h2>
