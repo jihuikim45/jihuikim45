@@ -86,7 +86,7 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" />
 
   <!-- Matplotlib -->
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="80" />
 
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
