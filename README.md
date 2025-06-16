@@ -14,7 +14,7 @@
 <!-- 뱃지 -->
 <p align="center">
   <a href="https://jihuikim45.github.io"><img src="https://img.shields.io/badge/Blog-내%20데이터%20블로그-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <a href="mailto:kimjihui45@email.com">
+  <a href="mailto:your@email.com">
   <img src="https://img.shields.io/badge/EMAIL-contact%20me-yellowgreen?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
