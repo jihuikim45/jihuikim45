@@ -15,7 +15,7 @@
 <p align="center">
   <!-- 블로그 -->
   <a href="https://jihuikim45.github.io">
-    <img src="https://img.shields.io/badge/BLOG-ffb6c1?style=for-the-badge&logo=githubpages&logoColor=b8cbfd">
+    <img src="https://img.shields.io/badge/BLOG-FFB6C1?style=for-the-badge&logo=readthedocs&logoColor=b8cbfd">
   </a>
   
   <!-- 이메일 -->
