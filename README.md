@@ -56,7 +56,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jihuikim45&show_icons=true&theme=buefy&hide=stars,prs,issues,contribs&hide_rank=true" />
 </p>
-
+<br>
 
 
 ---
@@ -86,7 +86,7 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" />
 
   <!-- Matplotlib -->
-  <img src="https://matplotlib.org/_static/images/logo2_compressed.svg" width="50" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" />
 
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
