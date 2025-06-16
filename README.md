@@ -5,11 +5,13 @@
 
 
 <!-- 소개 -->
+<br>
 <h2 align="center">👩‍💻 김지희 | Python & Data Analytics Learner</h2>
 <p align="center">
   LG U+ Why Not SW Camp 7기<br/>
   데이터 분석가로 성장하는 과정을 기록 중입니다 🌱
 </p>
+<br>
 
 <!-- 뱃지 -->
 <p align="center">
@@ -23,8 +25,7 @@
     <img src="https://img.shields.io/badge/CONTACT%20ME-b8cbfd?style=for-the-badge&logo=gmail&logoColor=ffb6c1">
   </a>
 </p>
-
-
+<br>
 
 ---
 
@@ -41,6 +42,7 @@
 
 - 🔹 [hipython_rep](https://github.com/jihuikim45/hipython_rep)  
   ➡️ Python 기초 학습 및 실습 정리 저장소
+  <br>
   <br>
   <br>
   <br>
@@ -68,7 +70,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
-
+<br>
+<br>
 ---
 
 <p align="center">
