@@ -1,6 +1,6 @@
 <!-- 배너 이미지 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:D8B4F8,100:B8C0FF&text=Hi%20I'm%20JiHui" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:FFB6C1,100:D8B4F8&text=Hi%20I'm%20JiHui" />
 </p>
 
 
