@@ -28,7 +28,8 @@
 
 ---
 
-### 🧠 What I'm Learning
+### 💜 What I'm Learning
+
 - `Python` 기초 문법, 조건문/반복문, 함수, 클래스
 - `NumPy`, `Pandas`를 활용한 데이터 분석
 - 팀 프로젝트를 통한 실전 분석 경험
@@ -36,16 +37,16 @@
 
 ---
 
-### 📁 Featured Repository
+### 🩷 Featured Repository
 
 - 🔹 [hipython_rep](https://github.com/jihuikim45/hipython_rep)  
-  → Python 기초 학습 및 실습 정리 저장소
-
+  ➡️ Python 기초 학습 및 실습 정리 저장소
+  <br>
+  <br>
+  <br>
 ---
 
-### 📊 GitHub Stats
-
-
+### ❤️ GitHub Stats
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jihuikim45&show_icons=true&theme=buefy&hide_title=true" />
 </p> -->
@@ -58,7 +59,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🧡 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
