@@ -41,7 +41,7 @@
 
 ### 🩷 Featured Repository
 
-- 🔹 [hipython_rep](https://github.com/jihuikim45/hipython_rep)  
+- 🚀 [hipython_rep](https://github.com/jihuikim45/hipython_rep)  
   ➡️ Python 기초 학습 및 실습 정리 저장소
   <br>
   <br>
