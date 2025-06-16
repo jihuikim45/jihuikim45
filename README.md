@@ -15,12 +15,12 @@
 <p align="center">
   <!-- 블로그 -->
   <a href="https://jihuikim45.github.io">
-    <img src="https://img.shields.io/badge/BLOG-ffdbe0?style=for-the-badge&logo=githubpages&logoColor=white">
+    <img src="https://img.shields.io/badge/BLOG-ffdbe0?style=for-the-badge&logo=githubpages&logoColor=b8cbfd">
   </a>
   
   <!-- 이메일 -->
   <a href="mailto:kimjihui45@email.com">
-    <img src="https://img.shields.io/badge/CONTACT%20ME-ffe7ea?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/CONTACT%20ME-ffe7ea?style=for-the-badge&logo=gmail&logoColor=b8cbfd">
   </a>
 </p>
 
