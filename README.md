@@ -51,8 +51,9 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihuikim45&show_icons=true&theme=buefy&hide=stars,prs,issues,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jihuikim45&show_icons=true&theme=buefy&hide=stars,prs,issues,contribs&hide_rank=true" />
 </p>
+
 
 
 ---
