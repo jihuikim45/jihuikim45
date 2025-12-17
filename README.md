@@ -6,7 +6,7 @@
 
 <!-- 소개 -->
 
-<h2 align="center">👩‍💻 김지희 | Python & Data Analytics Learner</h2>
+<h2 align="center">👩‍💻 김지희 | Data Analytics Learner</h2>
 <br>
 <br>
 <p align="center">
